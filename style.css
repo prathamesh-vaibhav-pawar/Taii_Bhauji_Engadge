@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    background-image: url("Main.jpg");
+    background-color: #cccccc;
+    width:100%;
+    height: auto;
+}
+.container{
+    color: white;
+    margin-top: 200px;
+    font-size: xx-large;
+}
+.footer{
+    margin-top:300px;
+    padding: 50px;
+    background-color: ghostwhite;
+}
